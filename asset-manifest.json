@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/warjok/static/css/main.dabaf4d4.css",
+    "main.js": "/warjok/static/js/main.5939efd0.js",
+    "static/js/787.f323a000.chunk.js": "/warjok/static/js/787.f323a000.chunk.js",
+    "index.html": "/warjok/index.html",
+    "main.dabaf4d4.css.map": "/warjok/static/css/main.dabaf4d4.css.map",
+    "main.5939efd0.js.map": "/warjok/static/js/main.5939efd0.js.map",
+    "787.f323a000.chunk.js.map": "/warjok/static/js/787.f323a000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dabaf4d4.css",
+    "static/js/main.5939efd0.js"
+  ]
+}
